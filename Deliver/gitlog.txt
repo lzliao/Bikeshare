@@ -1,0 +1,23 @@
+commit 10cd8fc51e1887c3db8cb2ecc63815a26a8dd24f (HEAD -> master, origin/master)
+Author: Li Zhi Liao <l_liao3@u.pacific.edu>
+Date:   Fri May 1 23:07:14 2020 -0700
+
+    add_notebooks_report
+
+commit 948fd1f7df1031fa514b36a54eb19adfa7dff55c
+Author: Li Zhi Liao <l_liao3@u.pacific.edu>
+Date:   Fri May 1 22:40:29 2020 -0700
+
+    change_untrackAdmin
+
+commit 53c47e523dcfe823fd88fa3c85b948e331342d86
+Author: Li Zhi Liao <l_liao3@u.pacific.edu>
+Date:   Thu Apr 30 20:21:42 2020 -0700
+
+    second_changes
+
+commit ce0f1456edce60d88ef832705ffd9ec4f3f541b6
+Author: Li Zhi Liao <l_liao3@u.pacific.edu>
+Date:   Thu Apr 30 20:02:08 2020 -0700
+
+    initial_changes
